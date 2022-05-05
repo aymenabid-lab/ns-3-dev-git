@@ -101,6 +101,10 @@ This documentation includes:
     a reference manual, most likely not very well suited 
     as introductory text:
     http://www.nsnam.org/doxygen/index.html
+Example of documentation useful for Lorwan:
+In nsnam website: https://www.nsnam.org/docs/release/3.35/doxygen/index.html
+For Lorwan :  https://signetlabdei.github.io/lorawan-docs/html/index.html
+
 
 5) Working with the development version of ns-3
 -----------------------------------------------
